@@ -1,9 +1,5 @@
 # IPportscanner
 
-# Unified Network Tool - IP & Port Scanner
-
-A comprehensive GUI-based network scanning tool built with Python and Tkinter that combines IP discovery, port scanning, and vulnerability assessment capabilities in one unified interface.
-
 ## Features
 
 ### IP Scanner
